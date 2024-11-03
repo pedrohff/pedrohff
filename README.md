@@ -1,6 +1,3 @@
-### Oioioi, seja bem vindo! 👋
-
-
 <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=pedrohff&theme=gruvbox&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=pedrohff&show_icons=true">
@@ -9,22 +6,6 @@
 - 🧑‍💻 Engenheiro de Software com foco em backend
 - 💙 Gopher
 - 🤖 Entusiasta de IoT & automação residencial
-
-
-
-### Algumas das ferramentas que domino:
-
-<p align="left">
-<img width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-<img width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-<img width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
-<img width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
-<img width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-<img width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-</p>  
-
-<br/>
 
 ---
 
