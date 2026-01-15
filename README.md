@@ -1,39 +1,18 @@
-<picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=pedrohff&theme=gruvbox&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=pedrohff&show_icons=true">
-</picture>
 
-- 🧑‍💻 Engenheiro de Software com foco em backend
+- 🧑‍💻 Software Engineer with some SRE and Data Engineering experience
 - 💙 Gopher
-- 🤖 Entusiasta de IoT & automação residencial
+- 🤖 Likes IoT and Home Automation
 
 ---
 
-✨ Principais projetos
+✨ Main Projects
 
-[autom8](https://github.com/pedrohff/autom8) - Projeto com código Go e C++, e tarefas em Ansible que uso para automação residencial  
-[dotfiles](https://github.com/pedrohff/dotfiles) - Configuração de ferramentas que acompanham meus terminais  
-[flutter_heatmap_calendar](https://github.com/pedrohff/flutter_heatmap_calendar) - Projeto de quando aprendi bem a fundo o Flutter, acho que meu projeto com maior impacto no mundo open source  
-[kubeop](https://github.com/pedrohff/kubeop) - "Hello World" de um operator do Kubernetes  
-[pocairflowkubernetesspark](https://github.com/pedrohff/pocairflowkubernetesspark) - Configuração de uma stack completa de engenharia de dados no Kubernetes ([breve documentação](https://www.pedrohff.com.br/blog/principais-dores-na-configuracao-spark-airflow-kubernetes/))  
-[rust-practice](https://github.com/pedrohff/rust-practice) - Um dia eu ainda aprendo de vez isso, rs  
+[autom8](https://github.com/pedrohff/autom8) - Home automation scripts writen in Go and C++
+[dotfiles](https://github.com/pedrohff/dotfiles) - Linux settings for interoperability 
+[flutter_heatmap_calendar](https://github.com/pedrohff/flutter_heatmap_calendar) - An old library I built for Flutter to display a Heatmap Calendar, inspired on GitHub's contribution chart. Some people forked or contributed in it!
+[kubeop](https://github.com/pedrohff/kubeop) - "Hello World" of a Kubernetes operator. I gotta go back to it some time.
+[pocairflowkubernetesspark](https://github.com/pedrohff/pocairflowkubernetesspark) - Data Engineering happening on kubernetes with Spark ([breve documentação](https://www.pedrohff.com.br/blog/principais-dores-na-configuracao-spark-airflow-kubernetes/))  
 
 ---
 
-📒 Meu [blog](https://www.pedrohff.com.br/)
-
-
-<!--
-**pedrohff/pedrohff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📒 My [blog](https://www.pedrohff.com.br/)
